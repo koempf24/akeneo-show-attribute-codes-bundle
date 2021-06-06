@@ -1,0 +1,22 @@
+{
+    "name": "koempf/akeneo-show-attribute-codes-bundle",
+    "description": "Show attribute codes in product edit form",
+    "keywords": [
+        "akeneo",
+        "attribute",
+        "pim"
+    ],
+    "type": "library",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lars Malach",
+            "email": "lam@koempf24.de",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "akeneo/pim-community-dev": "*"
+    }
+}

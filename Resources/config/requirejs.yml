@@ -1,0 +1,6 @@
+---
+config:
+    paths:
+        koempf-show-attribute-codes/main: koempfshowattributecodes/js/main.js
+        koempf-show-attribute-codes/link-template: koempfshowattributecodes/template/link.html
+        koempf-show-attribute-codes/attribute-code-template: koempfshowattributecodes/template/attribute_code.html

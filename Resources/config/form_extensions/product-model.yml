@@ -1,0 +1,7 @@
+---
+extensions:
+    koempf-show-attribute-codes-product-model:
+        module: koempf-show-attribute-codes/main
+        parent: pim-product-model-edit-form-secondary-actions
+        targetZone: secondary-actions
+        position: 110
