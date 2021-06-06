@@ -18,5 +18,10 @@
     ],
     "require": {
         "akeneo/pim-community-dev": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Koempf\\ShowAttributeCodesBundle\\": "./"
+        }
     }
 }
